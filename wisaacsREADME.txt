@@ -2,6 +2,9 @@ READ ME file.
 Warren Isaacs
 300104723
 
+Repository Address: https://github.com/warrenisaacs/371Repo
+NOTE: The repository is open to public access, therefore you should be able to access it.
+
 DO NOT DISTRIBUTE. March 2017-Project domain chosen: Application to help UFV academic advisors and registrar office.-GIT repository created.
 -Requirements document started.
 
